@@ -1,0 +1,51 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sat Aug  1 12:13:22 2020
+# Process ID: 2256
+# Current directory: D:/xilinx/cmar/sea/Lab_10
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8188 D:\xilinx\cmar\sea\Lab_10\Lab_10.xpr
+# Log file: D:/xilinx/cmar/sea/Lab_10/vivado.log
+# Journal file: D:/xilinx/cmar/sea/Lab_10\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/xilinx/cmar/sea/Lab_10/Lab_10.xpr
+INFO: [Project 1-313] Project file moved from 'D:/xilinx/cma/Xilinx-/Lab_10' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'd:/xilinx/SEA-Tutorial/IP_Core/RGB2DVI_IP'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Vivado/2019.1/data/ip'.
+open_project: Time (s): cpu = 00:00:19 ; elapsed = 00:00:08 . Memory (MB): peak = 761.656 ; gain = 136.523
+update_compile_order -fileset sources_1
+export_ip_user_files -of_objects  [get_files {{D:/xilinx/cmar/sea/Matlab/100 100/SEU_Picture_B_Rom.coe}}] -no_script -reset -force -quiet
+remove_files  {{D:/xilinx/cmar/sea/Matlab/100 100/SEU_Picture_B_Rom.coe}}
+export_ip_user_files -of_objects  [get_files {{D:/xilinx/cmar/sea/Matlab/100 100/SEU_Picture_G_Rom.coe}}] -no_script -reset -force -quiet
+remove_files  {{D:/xilinx/cmar/sea/Matlab/100 100/SEU_Picture_G_Rom.coe}}
+export_ip_user_files -of_objects  [get_files {{D:/xilinx/cmar/sea/Matlab/100 100/SEU_Picture_R_Rom.coe}}] -no_script -reset -force -quiet
+remove_files  {{D:/xilinx/cmar/sea/Matlab/100 100/SEU_Picture_R_Rom.coe}}
+WARNING: [IP_Flow 19-4067] Ignoring invalid widget type specified checkbox.Providing a default widget
+WARNING: [IP_Flow 19-4067] Ignoring invalid widget type specified checkbox.Providing a default widget
+INFO: [IP_Flow 19-3484] Absolute path of file 'd:/xilinx/cmar/sea/Matlab/100 100/SEU_Picture_R_Rom.coe' provided. It will be converted relative to IP Instance files '../../../../../Matlab/100 100/SEU_Picture_R_Rom.coe'
+set_property -dict [list CONFIG.Coe_File {D:/xilinx/cmar/sea/Matlab/100 100/SEU_Picture_R_Rom.coe}] [get_ips Picture_R_Rom]
+INFO: [IP_Flow 19-3484] Absolute path of file 'd:/xilinx/cmar/sea/Matlab/100 100/SEU_Picture_R_Rom.coe' provided. It will be converted relative to IP Instance files '../../../../../Matlab/100 100/SEU_Picture_R_Rom.coe'
+WARNING: [IP_Flow 19-4067] Ignoring invalid widget type specified checkbox.Providing a default widget
+WARNING: [IP_Flow 19-4067] Ignoring invalid widget type specified checkbox.Providing a default widget
+INFO: [IP_Flow 19-3484] Absolute path of file 'd:/xilinx/cmar/sea/Matlab/100 100/SEU_Picture_G_Rom.coe' provided. It will be converted relative to IP Instance files '../../../../../Matlab/100 100/SEU_Picture_G_Rom.coe'
+set_property -dict [list CONFIG.Coe_File {D:/xilinx/cmar/sea/Matlab/100 100/SEU_Picture_G_Rom.coe}] [get_ips Picture_G_Rom]
+INFO: [IP_Flow 19-3484] Absolute path of file 'd:/xilinx/cmar/sea/Matlab/100 100/SEU_Picture_G_Rom.coe' provided. It will be converted relative to IP Instance files '../../../../../Matlab/100 100/SEU_Picture_G_Rom.coe'
+WARNING: [IP_Flow 19-4067] Ignoring invalid widget type specified checkbox.Providing a default widget
+WARNING: [IP_Flow 19-4067] Ignoring invalid widget type specified checkbox.Providing a default widget
+INFO: [IP_Flow 19-3484] Absolute path of file 'd:/xilinx/cmar/sea/Matlab/100 100/SEU_Picture_B_Rom.coe' provided. It will be converted relative to IP Instance files '../../../../../Matlab/100 100/SEU_Picture_B_Rom.coe'
+set_property -dict [list CONFIG.Coe_File {D:/xilinx/cmar/sea/Matlab/100 100/SEU_Picture_B_Rom.coe}] [get_ips Picture_B_Rom]
+INFO: [IP_Flow 19-3484] Absolute path of file 'd:/xilinx/cmar/sea/Matlab/100 100/SEU_Picture_B_Rom.coe' provided. It will be converted relative to IP Instance files '../../../../../Matlab/100 100/SEU_Picture_B_Rom.coe'
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+[Sat Aug  1 12:16:27 2020] Launched synth_1...
+Run output will be captured here: D:/xilinx/cmar/sea/Lab_10/Lab_10.runs/synth_1/runme.log
+launch_runs impl_1 -jobs 4
+[Sat Aug  1 12:17:23 2020] Launched impl_1...
+Run output will be captured here: D:/xilinx/cmar/sea/Lab_10/Lab_10.runs/impl_1/runme.log
+exit
+INFO: [Common 17-206] Exiting Vivado at Sat Aug  1 12:18:29 2020...

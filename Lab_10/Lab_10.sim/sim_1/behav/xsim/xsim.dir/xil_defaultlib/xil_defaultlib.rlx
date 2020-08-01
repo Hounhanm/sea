@@ -1,0 +1,22 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+D:/xilinx/lab/Lab_10/Lab_10.ip_user_files/ipstatic/src/ClockGen.vhd,1595488530,vhdl,D:/xilinx/lab/Lab_10/Lab_10.ip_user_files/ipstatic/src/rgb2dvi.vhd,,,clockgen,,,,,,,,
+D:/xilinx/lab/Lab_10/Lab_10.ip_user_files/ipstatic/src/DVI_Constants.vhd,1595488530,vhdl,D:/xilinx/lab/Lab_10/Lab_10.ip_user_files/ipstatic/src/TMDS_Encoder.vhd,,,dvi_constants,,,,,,,,
+D:/xilinx/lab/Lab_10/Lab_10.ip_user_files/ipstatic/src/OutputSERDES.vhd,1595488530,vhdl,D:/xilinx/lab/Lab_10/Lab_10.ip_user_files/ipstatic/src/rgb2dvi.vhd,,,outputserdes,,,,,,,,
+D:/xilinx/lab/Lab_10/Lab_10.ip_user_files/ipstatic/src/SyncAsync.vhd,1595488530,vhdl,D:/xilinx/lab/Lab_10/Lab_10.ip_user_files/ipstatic/src/SyncAsyncReset.vhd,,,syncasync,,,,,,,,
+D:/xilinx/lab/Lab_10/Lab_10.ip_user_files/ipstatic/src/SyncAsyncReset.vhd,1595488530,vhdl,D:/xilinx/lab/Lab_10/Lab_10.ip_user_files/ipstatic/src/rgb2dvi.vhd,,,resetbridge,,,,,,,,
+D:/xilinx/lab/Lab_10/Lab_10.ip_user_files/ipstatic/src/TMDS_Encoder.vhd,1595488530,vhdl,D:/xilinx/lab/Lab_10/Lab_10.ip_user_files/ipstatic/src/rgb2dvi.vhd,,,tmds_encoder,,,,,,,,
+D:/xilinx/lab/Lab_10/Lab_10.ip_user_files/ipstatic/src/rgb2dvi.vhd,1595488530,vhdl,,,,rgb2dvi,,,,,,,,
+D:/xilinx/lab/Lab_10/Lab_10.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+D:/xilinx/lab/Lab_10/Lab_10.srcs/sim_1/new/testbench.v,1595574426,verilog,,,,testbench,,,../../../../Lab_10.srcs/sources_1/ip/clk_wiz_0,,,,,
+D:/xilinx/lab/Lab_10/Lab_10.srcs/sources_1/ip/Picture_B_Rom/sim/Picture_B_Rom.v,1595485820,verilog,,D:/xilinx/lab/Lab_10/Lab_10.srcs/sources_1/ip/Picture_G_Rom/sim/Picture_G_Rom.v,,Picture_B_Rom,,,../../../../Lab_10.srcs/sources_1/ip/clk_wiz_0,,,,,
+D:/xilinx/lab/Lab_10/Lab_10.srcs/sources_1/ip/Picture_G_Rom/sim/Picture_G_Rom.v,1595485722,verilog,,D:/xilinx/lab/Lab_10/Lab_10.srcs/sources_1/ip/Picture_R_Rom/sim/Picture_R_Rom.v,,Picture_G_Rom,,,../../../../Lab_10.srcs/sources_1/ip/clk_wiz_0,,,,,
+D:/xilinx/lab/Lab_10/Lab_10.srcs/sources_1/ip/Picture_R_Rom/sim/Picture_R_Rom.v,1595485596,verilog,,D:/xilinx/lab/Lab_10/Lab_10.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v,,Picture_R_Rom,,,../../../../Lab_10.srcs/sources_1/ip/clk_wiz_0,,,,,
+D:/xilinx/lab/Lab_10/Lab_10.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v,1595488587,verilog,,D:/xilinx/lab/Lab_10/Lab_10.srcs/sources_1/new/Driver_HDMI.v,,clk_wiz_0,,,../../../../Lab_10.srcs/sources_1/ip/clk_wiz_0,,,,,
+D:/xilinx/lab/Lab_10/Lab_10.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v,1595488586,verilog,,D:/xilinx/lab/Lab_10/Lab_10.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v,,clk_wiz_0_clk_wiz,,,../../../../Lab_10.srcs/sources_1/ip/clk_wiz_0,,,,,
+D:/xilinx/lab/Lab_10/Lab_10.srcs/sources_1/ip/rgb2dvi_0/sim/rgb2dvi_0.vhd,1595488526,vhdl,,,,rgb2dvi_0,,,,,,,,
+D:/xilinx/lab/Lab_10/Lab_10.srcs/sources_1/new/Driver_HDMI.v,1595489088,verilog,,D:/xilinx/lab/Lab_10/Lab_10.srcs/sim_1/new/testbench.v,,Driver_HDMI,,,../../../../Lab_10.srcs/sources_1/ip/clk_wiz_0,,,,,
+D:/xilinx/lab/Lab_10/Lab_10.srcs/sources_1/new/Lab_10.v,1595489088,verilog,,D:/xilinx/lab/Lab_10/Lab_10.srcs/sources_1/new/Video_Generator.v,,Lab_10,,,../../../../Lab_10.srcs/sources_1/ip/clk_wiz_0,,,,,
+D:/xilinx/lab/Lab_10/Lab_10.srcs/sources_1/new/Video_Generator.v,1595485894,verilog,,D:/xilinx/lab/Lab_10/Lab_10.srcs/sim_1/new/testbench.v,,Video_Generator,,,../../../../Lab_10.srcs/sources_1/ip/clk_wiz_0,,,,,
